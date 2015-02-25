@@ -1,7 +1,7 @@
 {
   "name": "hubot-maps",
   "description": "A Hubot script for searching maps and directions",
-  "version": "0.0.1",
+  "version": "0.0.1p",
   "author": "gkoo",
   "license": "MIT",
   "keywords": [
@@ -14,10 +14,10 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/gkoo/hubot-maps.git"
+    "url": "git://github.com/jcardinal/hubot-maps.git"
   },
   "bugs": {
-    "url": "https://github.com/gkoo/hubot-maps/issues"
+    "url": "https://github.com/jcardinal/hubot-maps/issues"
   },
 
   "main": "index.coffee",
